@@ -7,4 +7,4 @@ This is a Python implementation of the linear programming formulation of the Bes
     3. A file listing the required packages
 
 The source paper is:
-Rezaei, J. (2016). Best-worst multi-criteria decision-making method: Some properties and a linear model. Omega, 64, 126-130.
+[Rezaei, J. (2016). Best-worst multi-criteria decision-making method: Some properties and a linear model. Omega, 64, 126-130.](https://doi.org/10.1016/j.omega.2015.12.001)
